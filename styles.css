@@ -1,0 +1,62 @@
+body {
+    margin: 20px;
+    font-family: 'Cherry Bomb One', cursive;
+}
+
+.avatar {
+    width: 150px;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #a7c957;
+    color: #386641;
+    border-bottom: 10px solid #f2e8cf;
+    border-radius: 40px;
+    
+}
+
+.border-blue {
+    border: 1px dotted blue;
+}
+
+h3{
+    font-size: 20px;
+    text-shadow: 6px 0px 6px #f2e8cf;
+}
+h4{
+
+    font-size: 15px;
+    text-shadow: 6px 0px 6px #f2e8cf;
+}
+p{
+    font-size: 15px;
+    text-shadow: 6px 0px 6px #f2e8cf;
+}
+.avatar:hover{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1YAjVDTtpAUathL3i2Mod7G_rQYiTTRhwbQ&usqp=CAU");
+}
+
+
+/*
+Stretch goals:
+Find other ways you can personalize 
+the design of your business card, e.g.:
+- change the border(s)
+- add border radius
+- shuffle the layout
+- shadows        🤯
+- hover effects  🤯🤯
+- animations     🤯🤯🤯
+*/
+
+/*
+Final challenge:
+Download the code to your local computer and place it
+in a folder called "business-card"
+*/
